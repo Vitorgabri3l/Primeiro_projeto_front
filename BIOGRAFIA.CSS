@@ -1,0 +1,63 @@
+#minhafoto {
+	position: absolute; 
+	left: 580px; /* posiciona a 90px para a esquerda */ 
+	top: 50px; /* posiciona a 70px para baixo */
+	border-radius: 50%;
+} 
+
+    
+#nome {
+    color: #1E90FF;
+    position: absolute; 
+        left: 465px; 
+        top: 250px;
+}
+
+#profissao {
+    color: LightSkyBlue;
+    position: absolute; 
+        left: 590px; 
+        top: 300px;
+}
+
+#meutxt {
+    color: 	LightSkyBlue;
+    position: absolute; 
+	left: 380px; 
+	top: 380px;
+}
+
+#instagram{
+    position: absolute; 
+    left: 650px; 
+    top: 550px;
+}
+
+#linkedin{
+    position: absolute; 
+    left: 500px; 
+    top: 550px;
+}
+
+#git{
+    position: absolute; 
+    left: 800px; 
+    top: 550px;
+}
+
+#icone{
+    color: antiquewhite;
+    position: absolute; 
+    left: 520px; 
+    top: 600px;
+}
+
+
+
+
+
+
+
+
+
+
